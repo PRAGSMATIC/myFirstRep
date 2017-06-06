@@ -16,7 +16,7 @@
     </xs:element>
     <xs:element name="OrderAck" type="OrderAckType">
         <xs:annotation>
-            <xs:documentation>The canonical order ack element</xs:documentation>
+            <xs:documentation>The canonical order ack element which is great</xs:documentation>
         </xs:annotation>
     </xs:element>
     <xs:element name="PaymentInfo" type="PaymentType">
